@@ -19,52 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7748a26e-8c4a-4444-85be-6b8e7cacd437" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/app-views/clients/clients-list/UserView.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/app-views/clients/clients-list/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/app-views/clients/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/0.b96740d5.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/0.b96740d5.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/1.9bdd815f.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/1.9bdd815f.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/10.8de1560d.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/10.8de1560d.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/11.797072d6.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/11.797072d6.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/12.c778fedd.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/12.c778fedd.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/13.47513d00.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/13.47513d00.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/14.9ed792d5.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/14.9ed792d5.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/2.03b919c6.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/2.03b919c6.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/5.a07d3e50.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/5.a07d3e50.chunk.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/5.a07d3e50.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/6.ed47b331.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/6.ed47b331.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/7.7876083b.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/7.7876083b.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/8.ee20df85.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/8.ee20df85.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/9.4bde066c.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/9.4bde066c.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.0a93a102.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.0a93a102.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.d4dae632.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.d4dae632.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/configs/NavigationConfig.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/configs/NavigationConfig.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/locales/en_US.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/locales/en_US.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/app-views/home/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/app-views/dashboard/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/app-views/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/app-views/index.js" afterDir="false" />
-    </list>
+    <list default="true" id="7748a26e-8c4a-4444-85be-6b8e7cacd437" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1644294230356</updated>
       <workItem from="1644294232195" duration="12743000" />
-      <workItem from="1644317026365" duration="19782000" />
+      <workItem from="1644317026365" duration="20392000" />
     </task>
     <servers />
   </component>
