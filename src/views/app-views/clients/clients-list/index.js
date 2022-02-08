@@ -127,8 +127,8 @@ export class UserList extends Component {
         ];
         return (
             <Card bodyStyle={{'padding': '0px'}}>
+                {/*<Loading/>*/}
                 <Table columns={tableColumns} dataSource={users} rowKey='id'/>
-                <Loading/>
                 <UserView data={selectedUser} visible={userProfileVisible} close={() => {
                     this.closeUserProfile()
                 }}/>
