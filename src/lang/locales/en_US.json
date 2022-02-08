@@ -1,6 +1,13 @@
 {
+	"main": "Main",
+	"sidenav.clients": "Clients",
+	"sidenav.clients.clientsList": "Clients list",
+	"sidenav.clients.clientsGroups": "Clients groups",
+
+
 	"home": "Home",
-	
+
+
 	"sidenav.dashboard": "Dashboard",
 	"sidenav.dashboard.default": "Default",
 	"sidenav.dashboard.analytic": "Analytic",
