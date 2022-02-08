@@ -18,7 +18,6 @@ export class UserList extends Component {
     }
 
     componentDidMount() {
-
         axios.get('https://jsonplaceholder.typicode.com/users/')
             .then((res) => {
                 this.setState({users: res.data})
@@ -26,8 +25,8 @@ export class UserList extends Component {
             .catch(function (error) {
                 console.log(error);
             });
-
     }
+
 
     deleteUser = userId => {
         this.setState({
