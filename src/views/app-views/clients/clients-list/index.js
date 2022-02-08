@@ -6,6 +6,7 @@ import UserView from './UserView';
 import AvatarStatus from 'components/shared-components/AvatarStatus';
 import userData from "assets/data/user-list.data.json";
 import axios from "axios";
+import Loading from "../../../../components/shared-components/Loading";
 
 
 export class UserList extends Component {
@@ -127,6 +128,7 @@ export class UserList extends Component {
         return (
             <Card bodyStyle={{'padding': '0px'}}>
                 <Table columns={tableColumns} dataSource={users} rowKey='id'/>
+                <Loading/>
                 <UserView data={selectedUser} visible={userProfileVisible} close={() => {
                     this.closeUserProfile()
                 }}/>
