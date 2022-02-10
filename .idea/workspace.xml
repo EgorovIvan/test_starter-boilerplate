@@ -20,36 +20,64 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7748a26e-8c4a-4444-85be-6b8e7cacd437" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/test.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/app-views/main/banners/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/app-views/main/catalog/ProductForm/GeneralField.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/app-views/main/catalog/ProductForm/ShippingField.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/app-views/main/catalog/ProductForm/VariationField.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/app-views/main/catalog/ProductForm/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/app-views/main/catalog/categories/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/app-views/main/catalog/collections/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/app-views/main/catalog/combo/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/app-views/main/catalog/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/app-views/main/catalog/product/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/app-views/main/clients/clients-list/EditProfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/app-views/main/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/app-views/main/offline-points/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/app-views/main/orders/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/app-views/main/promo-codes/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/0.961305d3.chunk.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/js/0.961305d3.chunk.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/6.b7b7f024.chunk.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/js/6.b7b7f024.chunk.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/8.18001fae.chunk.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/js/8.18001fae.chunk.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/9.1e8ede7c.chunk.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/js/9.1e8ede7c.chunk.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.6805bd14.chunk.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/js/main.6805bd14.chunk.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/less/styles/variables/_common.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/less/styles/variables/_common.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/0.f2a9662d.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/0.f2a9662d.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/1.fccbfe4a.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/1.fccbfe4a.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/10.be782464.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/10.be782464.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/11.5ce77104.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/11.5ce77104.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/12.09e9fa00.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/12.09e9fa00.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/13.37ae1cfc.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/13.37ae1cfc.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/14.cbca8c2e.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/14.cbca8c2e.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/15.2b9d3618.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/15.2b9d3618.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/16.0be7c428.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/16.0be7c428.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/17.79635417.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/17.79635417.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/18.e32be8b6.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/18.e32be8b6.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/19.41a7a4a9.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/19.41a7a4a9.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.41decd07.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.41decd07.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/20.5eb084ad.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/20.5eb084ad.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/21.0484b4e6.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/21.0484b4e6.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/22.89554907.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/22.89554907.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/23.3532418f.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/23.3532418f.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/24.3c150574.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/24.3c150574.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/25.2476ade6.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/25.2476ade6.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/3.75e23153.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/3.75e23153.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/4.da18f5e1.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/4.da18f5e1.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/5.3d89b800.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/5.3d89b800.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/8.f834eb3f.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/8.f834eb3f.chunk.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/8.f834eb3f.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/9.31e72224.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/9.31e72224.chunk.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/9.31e72224.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.bbb29724.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.bbb29724.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.4e6db8c4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.4e6db8c4.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/configs/NavigationConfig.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/configs/NavigationConfig.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/locales/en_US.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/locales/en_US.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/app-views/clients/clients-list/UserView.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/app-views/main/clients/clients-list/UserView.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/app-views/clients/clients-list/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/app-views/main/clients/clients-list/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/app-views/clients/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/app-views/main/clients/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/app-views/dashboard/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/app-views/main/dashboard/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/app-views/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/app-views/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +105,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/views/app-views/main" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -87,17 +115,17 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Project\TEST_TASKS\hammer_systems\Тестовое задание\starter-boilerplate\src\views\app-views\main" />
-      <recent name="C:\Project\TEST_TASKS\hammer_systems\Тестовое задание\starter-boilerplate\src\views\app-views\clients\clients-list" />
-      <recent name="C:\Project\TEST_TASKS\hammer_systems\Тестовое задание\starter-boilerplate\src\views\app-views\clients" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Project\TEST_TASKS\hammer_systems\Тестовое задание\starter-boilerplate\src\views\app-views\main" />
       <recent name="C:\Project\TEST_TASKS\hammer_systems\Тестовое задание\starter-boilerplate\src\views\app-views" />
       <recent name="C:\Project\TEST_TASKS\hammer_systems\Тестовое задание\starter-boilerplate\public" />
       <recent name="C:\Project\TEST_TASKS\hammer_systems\Тестовое задание\starter-boilerplate\src\views\app-views\clients\profile" />
       <recent name="C:\Project\TEST_TASKS\hammer_systems\Тестовое задание\starter-boilerplate\src\views\app-views\clients\clients-list" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Project\TEST_TASKS\hammer_systems\Тестовое задание\starter-boilerplate\src\views\app-views\main" />
+      <recent name="C:\Project\TEST_TASKS\hammer_systems\Тестовое задание\starter-boilerplate\src\views\app-views\clients\clients-list" />
+      <recent name="C:\Project\TEST_TASKS\hammer_systems\Тестовое задание\starter-boilerplate\src\views\app-views\clients" />
     </key>
   </component>
   <component name="RunManager">
@@ -128,7 +156,9 @@
       <workItem from="1644415824994" duration="12875000" />
       <workItem from="1644429734246" duration="4693000" />
       <workItem from="1644434500052" duration="543000" />
-      <workItem from="1644435077131" duration="3269000" />
+      <workItem from="1644435077131" duration="4919000" />
+      <workItem from="1644463481234" duration="591000" />
+      <workItem from="1644465091765" duration="2845000" />
     </task>
     <servers />
   </component>

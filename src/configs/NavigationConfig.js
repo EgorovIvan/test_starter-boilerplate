@@ -7,7 +7,10 @@ import {
     QrcodeOutlined,
     ShopOutlined,
     UsergroupAddOutlined,
-    MailOutlined
+    MailOutlined,
+    SettingOutlined,
+    TabletOutlined,
+    FileTextOutlined
 } from '@ant-design/icons';
 import {APP_PREFIX_PATH} from 'configs/AppConfig'
 
@@ -176,7 +179,7 @@ const docsNavTree = [
         key: 'systemic-settings',
         path: `${APP_PREFIX_PATH}/systemic/settings`,
         title: 'sidenav.systemic.settings',
-        icon: UsergroupAddOutlined,
+        icon: SettingOutlined,
         breadcrumb: true,
         submenu: []
       },
@@ -184,7 +187,7 @@ const docsNavTree = [
         key: 'systemic-mobile-applications',
         path: `${APP_PREFIX_PATH}/systemic/mobile-applications`,
         title: 'sidenav.systemic.mobileApplications',
-        icon: MailOutlined,
+        icon: TabletOutlined,
         breadcrumb: true,
         submenu: []
       },
@@ -192,7 +195,7 @@ const docsNavTree = [
         key: 'systemic-logs',
         path: `${APP_PREFIX_PATH}/systemic/logs`,
         title: 'sidenav.systemic.logs',
-        icon: UsergroupAddOutlined,
+        icon: FileTextOutlined,
         breadcrumb: true,
         submenu: []
       }
